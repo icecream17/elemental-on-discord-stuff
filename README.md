@@ -29,12 +29,15 @@ IdentifierName :
 <Any character>
 <Any character> IdentifierName
 
+MissingElement :
+<empty>
 
 
 Start :
 IdentifierName + DigitID <whitespace> -> DigitID
 
 Combo :
+MissingElement
 < DigitID >
 < IdentifierName from DigitID >
 IdentifierName
