@@ -1,7 +1,7 @@
-# elemental-on-discord-combos
-Combinations for elemental-on-discord
+# elemental-on-discord-stuff
+Stuff for elemental-on-discord
 
-## Format
+## Combos Format
 
 ```yaml
 Digit : one of
