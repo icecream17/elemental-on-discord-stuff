@@ -1,18 +1,13 @@
-// # This is the first file where duplicate elements occur
-// # When an element already exists, its tier is noted using " tier:"
-// # with the space in front since elements don't start with spaces (hopefully)
-// # and the "tier" part is optional if it's in the same tier
-
 2b <- air + 1
 storm
-duststorm
+ 2a duststorm
 plasma
 cold climate
- 1: wind
+ 1 wind
 rock
 brick
- 1: steam
-cloud
+ 1 steam
+ 2a cloud
 fog
 
 2b <- earth + 1
@@ -21,23 +16,23 @@ sand
 earthquake
 the artic
  : earthquake
-volcano
+ 2a volcano
 big mud clump
 geothermal heat
-geyser
+ 2a geyser
  : big mud clump
 
 2b <- fire + 1
 fire vortex
 ash
- 1: heat
+ 1 heat
 smoke
- 0: fire
+ 0 fire
 magma
 clay
 fuel
  : ash
- 1: steam
+ 1 steam
 
 2b <- water + 1
 wave
