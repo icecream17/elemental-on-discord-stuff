@@ -1,10 +1,10 @@
-1 =- air + 0
+1 <- air + 0
 wind
 dust
 energy
 cold
 
-1 =- earth + 0
+1 <- earth + 0
 pressure
 lava
 mud
