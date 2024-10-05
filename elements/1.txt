@@ -1,11 +1,17 @@
-0 + 0 		-> 1
+1 =- air + 0
 wind
 dust
 energy
 cold
+
+1 =- earth + 0
 pressure
 lava
 mud
+
+1 <- fire + 0
 heat
 steam
+
+1 <- water + 0
 puddle
