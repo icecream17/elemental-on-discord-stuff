@@ -1,0 +1,34 @@
+3c <- wind + 1
+motion
+dusty air
+wind energy
+breeze
+air pressure
+ 1: ash
+ 1: mud
+warm wind
+mist
+fog
+
+3c <- dust + 1
+ 2b: sand
+magic
+ 1: dust
+siltstone
+polluted lava
+silt
+ 1: dust
+smog
+ 1: puddle
+
+3c <- energy + 1
+electricity
+warmth
+sound
+lava bubble
+life
+thermal energy
+steampowered
+ripple
+
+todo: cold pressure lava mud heat steam puddle
