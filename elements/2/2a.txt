@@ -1,0 +1,32 @@
+// # This is the first file where duplicate elements occur
+// # When an element already exists, its tier is noted using " tier"
+// # or " :" if its in the same tier, including the space in front
+// # since elements don't start with spaces (hopefully)
+
+2a <- air + 0 + 0
+sky
+hot air
+duststorm
+cloud
+combustion
+lightning
+ : cloud
+thick dust
+earth (planet)
+mist
+
+2a <- earth + 0 + 0
+dirt
+volcano
+irrigation
+steamy dirt
+geyser
+flood
+
+2a <- fire + 0 + 0
+ 1 heat
+hot steam
+some steam
+
+2a <- water + 0 + 0
+a bigger puddle	(already)
