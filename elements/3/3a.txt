@@ -1,0 +1,42 @@
+3a <- air + air + 0 + 0
+compressed air
+horizon
+hell sky
+ 2a: mist
+dusty dust
+flying volcano
+cold mud cloud
+airgun
+humid air
+infinite water source
+
+3a <- air + 0 + 0 + 0
+flying boulder
+sandstorm lightning
+small planet
+elemer skip: cheeseless edition
+elements
+wet mud cloud
+firewhirl
+steam cloud
+raincloud
+heavy mist
+
+3a <- earth + 0 + 0 + 0
+rocky planet
+ 2a volcano
+floccinaucinihilipilification
+magma
+dry hot mud
+plant
+burning earth
+hot mud
+wet volcano
+ 2a earth (planet)
+
+3a <- 0 + 0 + 0 + 0
+fiery fire
+fire ring
+opposites
+warm water
+ocean
