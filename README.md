@@ -1,7 +1,19 @@
 # elemental-on-discord-stuff
 Stuff for elemental-on-discord
 
-## Combos Format
+## Tiers
+
+Historically, tiers in EoD go as follows:
+
+The starters elements are tier 0. Tier n + 1 are the new elements that can be made from all previous tiers.
+
+This explodes a bit too exponentially, since with just the starter elements and 21 slots for elements in combinations,
+there are hundreds of elements at minimum.
+
+So instead, we add starter elements one at a time. The nth tier of elements contains the elements that can be created
+using n+1 starter elements.
+
+### Combos Format
 
 ```yaml
 Digit : one of
