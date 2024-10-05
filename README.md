@@ -11,8 +11,8 @@ This explodes a bit too exponentially, since with just the starter elements and 
 there are hundreds of elements at minimum.
 
 So instead, we add starter elements one at a time. The nth tier of elements contains the elements that can be created
-using n+1 starter elements. In general, one can treat tiers 2^n to 2^n-1 is a single exponential tier. So far, we've only
-processed exponential tiers `-infinity` (tier 0) and `0` (tiers 1 and 2).
+using n+1 starter elements. In general, one can treat tiers $2^{n-1}$ to $2^n$ as a single exponential tier. So far,
+we've only processed exponential tiers `-infinity` (tier 0) and `1` (tiers 1 and 2).
 
 ### Combos Format
 
