@@ -7,7 +7,7 @@ air pressure
  1: ash
  1: mud
 warm wind
-mist
+ 2a: mist
 fog
 
 3c <- dust + 1
